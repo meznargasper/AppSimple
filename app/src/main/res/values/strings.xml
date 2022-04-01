@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+
+    <string name="btnRed">Red</string>
+    <string name="btnGreen">Green</string>
+    <string name="btnBlue">Blue</string>
+    <string name="tvColor">Color</string>
+
+    <string name="btnRedPressed">"You pressed red button"</string>
+    <string name="btnGreenPressed">"You pressed green button"</string>
+    <string name="btnBluePressed">"You pressed blue button"</string>
+
+
+</resources>
